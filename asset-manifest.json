@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.93534c8b.css",
-    "main.js": "/static/js/main.f574b19b.js",
+    "main.js": "/static/js/main.27c651fa.js",
     "static/js/988.22318e94.chunk.js": "/static/js/988.22318e94.chunk.js",
     "static/media/HavokPhysics.wasm": "/static/media/HavokPhysics.5e7e7553d018c4a35bd3.wasm",
     "static/media/snow_n.png": "/static/media/snow_n.612dcd09f5637ab47ead.png",
@@ -9,11 +9,11 @@
     "static/media/short.wav": "/static/media/short.11759d449359248ca464.wav",
     "index.html": "/index.html",
     "main.93534c8b.css.map": "/static/css/main.93534c8b.css.map",
-    "main.f574b19b.js.map": "/static/js/main.f574b19b.js.map",
+    "main.27c651fa.js.map": "/static/js/main.27c651fa.js.map",
     "988.22318e94.chunk.js.map": "/static/js/988.22318e94.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93534c8b.css",
-    "static/js/main.f574b19b.js"
+    "static/js/main.27c651fa.js"
   ]
 }
