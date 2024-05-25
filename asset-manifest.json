@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.a123bf85.css",
-    "main.js": "/static/js/main.295d61f3.js",
+    "main.css": "/static/css/main.add4a4df.css",
+    "main.js": "/static/js/main.bd82bb38.js",
     "static/js/988.22318e94.chunk.js": "/static/js/988.22318e94.chunk.js",
     "static/media/smooth-cold-wind-looped-135538.mp3": "/static/media/smooth-cold-wind-looped-135538.6d5325d6d8e612549da0.mp3",
     "static/media/HavokPhysics.wasm": "/static/media/HavokPhysics.5e7e7553d018c4a35bd3.wasm",
     "static/media/snow_loop.wav": "/static/media/snow_loop.63767af4cb86b2777b56.wav",
     "static/media/snow_n.png": "/static/media/snow_n.612dcd09f5637ab47ead.png",
+    "static/media/success.wav": "/static/media/success.d930bb75365cf7412b17.wav",
     "static/media/snow.jpg": "/static/media/snow.7c648b0a48c20bf27b95.jpg",
+    "static/media/error.wav": "/static/media/error.55dec53a955bb6371ea0.wav",
+    "static/media/boost.wav": "/static/media/boost.dfbb434a0695e769baf0.wav",
+    "static/media/boost_arrow.png": "/static/media/boost_arrow.ae48b081601b1bca5249.png",
+    "static/media/woosh.wav": "/static/media/woosh.73606337835ac734648c.wav",
+    "static/media/hit.wav": "/static/media/hit.b6007b6ab8f64a78acdd.wav",
     "index.html": "/index.html",
-    "main.a123bf85.css.map": "/static/css/main.a123bf85.css.map",
-    "main.295d61f3.js.map": "/static/js/main.295d61f3.js.map",
+    "main.add4a4df.css.map": "/static/css/main.add4a4df.css.map",
+    "main.bd82bb38.js.map": "/static/js/main.bd82bb38.js.map",
     "988.22318e94.chunk.js.map": "/static/js/988.22318e94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a123bf85.css",
-    "static/js/main.295d61f3.js"
+    "static/css/main.add4a4df.css",
+    "static/js/main.bd82bb38.js"
   ]
 }
